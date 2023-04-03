@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2023-03-28T10:38:38.132Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="gLzJ3Pp14wq8hN0hFo6Y" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-03T01:45:50.316Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="sjofoZpPRXcmR6BE9Ob5" version="21.1.1" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
-    <mxGraphModel dx="2020" dy="985" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2020" dy="1042" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="7k-lvp4XkaIvdBZKLIx3-6" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" vertex="1" parent="1">
+        <mxCell id="7k-lvp4XkaIvdBZKLIx3-6" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" parent="1" vertex="1">
           <mxGeometry x="90" y="40" width="20" height="1000" as="geometry" />
         </mxCell>
-        <mxCell id="7k-lvp4XkaIvdBZKLIx3-7" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="7k-lvp4XkaIvdBZKLIx3-6">
+        <mxCell id="7k-lvp4XkaIvdBZKLIx3-7" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="7k-lvp4XkaIvdBZKLIx3-6" vertex="1">
           <mxGeometry x="5" y="80" width="10" height="90" as="geometry" />
         </mxCell>
         <mxCell id="hi3D_tC1tFswLXesbzHT-98" value="策略引擎" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
@@ -37,7 +37,7 @@
         <mxCell id="hi3D_tC1tFswLXesbzHT-142" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="hi3D_tC1tFswLXesbzHT-98" vertex="1">
           <mxGeometry x="45" y="420" width="10" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="hi3D_tC1tFswLXesbzHT-144" value="返回人脸信息" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" parent="hi3D_tC1tFswLXesbzHT-98" source="hi3D_tC1tFswLXesbzHT-142" edge="1">
+        <mxCell id="hi3D_tC1tFswLXesbzHT-144" value="返回人脸信息&lt;br&gt;(姓名/证件等信息)" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" parent="hi3D_tC1tFswLXesbzHT-98" source="hi3D_tC1tFswLXesbzHT-142" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="40" y="470" as="sourcePoint" />
             <Array as="points">
@@ -48,13 +48,13 @@
             <mxPoint x="-105" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hi3D_tC1tFswLXesbzHT-143" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 4.face_recognition_real_name_verify" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="hi3D_tC1tFswLXesbzHT-98" target="hi3D_tC1tFswLXesbzHT-142" edge="1">
+        <mxCell id="hi3D_tC1tFswLXesbzHT-143" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 4.face_recognition_real_name_verify" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="hi3D_tC1tFswLXesbzHT-98" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="-105" y="440" as="sourcePoint" />
-            <mxPoint x="40" y="430" as="targetPoint" />
+            <mxPoint x="-105" y="432" as="sourcePoint" />
+            <mxPoint x="45" y="432" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-20" y="440" />
-              <mxPoint x="5" y="430" />
+              <mxPoint x="-20" y="432" />
+              <mxPoint x="5" y="422" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -105,7 +105,7 @@
             <mxPoint x="300" y="867" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hi3D_tC1tFswLXesbzHT-177" value="返回拦截/放过" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" parent="aM9ryv3xv72pqoxQDRHE-5" source="hi3D_tC1tFswLXesbzHT-171" edge="1" target="hi3D_tC1tFswLXesbzHT-173">
+        <mxCell id="hi3D_tC1tFswLXesbzHT-177" value="返回拦截/放过" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" parent="aM9ryv3xv72pqoxQDRHE-5" source="hi3D_tC1tFswLXesbzHT-171" target="hi3D_tC1tFswLXesbzHT-173" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-95" y="870" as="sourcePoint" />
             <Array as="points">
@@ -143,7 +143,7 @@
             <mxPoint x="510" y="127" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hi3D_tC1tFswLXesbzHT-101" value="返回拦截" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" parent="1" source="hi3D_tC1tFswLXesbzHT-99" edge="1" target="aM9ryv3xv72pqoxQDRHE-6">
+        <mxCell id="hi3D_tC1tFswLXesbzHT-101" value="返回拦截（错误码 + 集成接口url）" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" parent="1" source="hi3D_tC1tFswLXesbzHT-99" target="aM9ryv3xv72pqoxQDRHE-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="115" y="130" as="sourcePoint" />
             <Array as="points">
@@ -152,7 +152,7 @@
             <mxPoint x="270" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hi3D_tC1tFswLXesbzHT-104" value="准备解脱&amp;nbsp;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" parent="1" source="hi3D_tC1tFswLXesbzHT-102" target="hi3D_tC1tFswLXesbzHT-103" edge="1">
+        <mxCell id="hi3D_tC1tFswLXesbzHT-104" value="准备解脱（点击集成接口url)&amp;nbsp;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" parent="1" source="hi3D_tC1tFswLXesbzHT-102" target="hi3D_tC1tFswLXesbzHT-103" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="195" y="290" as="sourcePoint" />
             <Array as="points">
@@ -231,7 +231,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="hi3D_tC1tFswLXesbzHT-139" value="发起人脸" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" parent="1" edge="1">
+        <mxCell id="hi3D_tC1tFswLXesbzHT-139" value="用户点击发起人脸" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry x="0.25" relative="1" as="geometry">
             <mxPoint x="105" y="530" as="sourcePoint" />
             <Array as="points">
@@ -243,7 +243,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hi3D_tC1tFswLXesbzHT-140" value="返回页面信息" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" parent="1" source="hi3D_tC1tFswLXesbzHT-137" target="hi3D_tC1tFswLXesbzHT-103" edge="1">
+        <mxCell id="hi3D_tC1tFswLXesbzHT-140" value="返回待确认信息（如金额/商户号等交易信息）" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" parent="1" source="hi3D_tC1tFswLXesbzHT-137" target="hi3D_tC1tFswLXesbzHT-103" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="540" y="430" as="sourcePoint" />
             <Array as="points">
@@ -252,6 +252,7 @@
               <mxPoint x="185" y="390" />
             </Array>
             <mxPoint x="400" y="430" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hi3D_tC1tFswLXesbzHT-145" value="获取人脸结果" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" target="hi3D_tC1tFswLXesbzHT-146" edge="1">
@@ -418,7 +419,7 @@
             <mxPoint x="395" y="700" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7k-lvp4XkaIvdBZKLIx3-1" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" target="hi3D_tC1tFswLXesbzHT-102">
+        <mxCell id="7k-lvp4XkaIvdBZKLIx3-1" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" target="hi3D_tC1tFswLXesbzHT-102" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="110" y="440" as="targetPoint" />
             <Array as="points">
@@ -432,7 +433,7 @@
             <mxPoint x="385" y="440" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7k-lvp4XkaIvdBZKLIx3-2" value="确认" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="1" source="hi3D_tC1tFswLXesbzHT-102" target="hi3D_tC1tFswLXesbzHT-103">
+        <mxCell id="7k-lvp4XkaIvdBZKLIx3-2" value="用户点击确认信息" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" parent="1" source="hi3D_tC1tFswLXesbzHT-102" target="hi3D_tC1tFswLXesbzHT-103" edge="1">
           <mxGeometry x="0.25" relative="1" as="geometry">
             <mxPoint x="115" y="540" as="sourcePoint" />
             <Array as="points">
